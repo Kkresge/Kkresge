@@ -10,7 +10,7 @@ Kelly Kresge
 Education
 ---------
 
-**ACQUIRED 36 CREDITS IN COMPUTER SCIENCE**	University of San Francisco
+**Acquired 36 Credits in Computer Science**	University of San Francisco
 *2017 – 2018*
 
     GPA: 3.84
